@@ -1,0 +1,1 @@
+Analyzed Adventure Works sales data using SQL, Excel, Power BI, and Tableau to evaluate sales performance, product categories, customer trends, and regional performance. Developed interactive dashboards and reports to generate meaningful business insights and support data-driven decision-making.
